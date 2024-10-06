@@ -1,6 +1,6 @@
 # 🌐 CodeHound - Vulnerability Scanner Tool
 
-VulScanner is an open-source vulnerability scanner designed to help security enthusiasts and professionals conduct various assessments such as OSINT, port scanning, and vulnerability detection. It integrates the best open-source tools to provide seamless scanning, remediation, and reporting.
+CodeHound is an open-source vulnerability scanner designed to help security enthusiasts and professionals conduct various assessments such as OSINT, port scanning, and vulnerability detection. It integrates the best open-source tools to provide seamless scanning, remediation, and reporting.
 
 ## 🔥 Features
 
