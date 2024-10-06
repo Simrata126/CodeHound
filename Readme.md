@@ -1,8 +1,4 @@
-# 🌐 VulScanner - Vulnerability Scanner Tool
-
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-v3.9-blue)
-![Flask](https://img.shields.io/badge/flask-v2.0-lightgrey)
+# 🌐 CodeHound - Vulnerability Scanner Tool
 
 VulScanner is an open-source vulnerability scanner designed to help security enthusiasts and professionals conduct various assessments such as OSINT, port scanning, and vulnerability detection. It integrates the best open-source tools to provide seamless scanning, remediation, and reporting.
 
@@ -103,10 +99,6 @@ We welcome contributions to improve VulScanner. Please follow these steps to con
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 💬 Contact
 
